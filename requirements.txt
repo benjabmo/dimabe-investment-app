@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+streamlit
+scipy
+plotly
+matplotlib
+watchdog
+lxml
+xlsxwriter
+openpyxl
